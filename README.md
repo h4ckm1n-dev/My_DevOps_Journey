@@ -38,7 +38,4 @@ Each folder contains detailed markdown files and code samples, accompanied by ex
 ## Contributing
 I encourage contributions from the community to enhance and expand this repository. If you have valuable insights, additional resources, or improvements to the existing documentation, please feel free to submit a pull request. Your contributions will be acknowledged and greatly appreciated.
 
-## Contact
-If you have any questions, feedback, or suggestions related to this repository or the covered technologies, please don't hesitate to reach out. You can contact me through the following channels:
-
-Thank you for visiting My_devOps_Journey. I hope the documentation provided here proves helpful in your own DevOps endeavors. Happy learning and exploring!
+Thank you for visiting My_devOps_Journey. I hope the documentation provided here proves helpful in your own DevOps endeavors. Happy learning and questions, feedback, or su exploring!
