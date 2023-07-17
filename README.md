@@ -5,7 +5,6 @@ Welcome to My_devOps_Journey! This repository is a collection of documentation a
 - [Technologies Covered](#technologies-covered)
 - [Documentation Structure](#documentation-structure)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 DevOps has become an essential practice in the software development industry, combining development and operations to enhance collaboration, efficiency, and deployment processes. My_devOps_Journey aims to document my exploration of key DevOps technologies, providing valuable insights and resources to fellow developers and DevOps enthusiasts.
