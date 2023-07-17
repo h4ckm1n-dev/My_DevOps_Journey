@@ -1,5 +1,13 @@
 Welcome to My_devOps_Journey! This repository is a collection of documentation and resources that chronicles my personal journey in DevOps, focusing on Docker, Kubernetes, Ansible and Linux Administration. Through this project, I aim to share my learnings, insights, and experiences with the community.
 
+For better usage :
+ - Download the repo :
+```bash
+git clone https://github.com/h4ckm1n-dev/My_DevOps_Journey.git
+```
+ Use Obsidian to open the repo folder and enjoy! 
+ https://obsidian.md/
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Covered](#technologies-covered)
